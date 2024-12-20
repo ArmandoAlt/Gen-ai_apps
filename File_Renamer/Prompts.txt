@@ -1,0 +1,50 @@
+My First Prompt:
+
+provide Python Code to develop a desktop application for renaming files:
+
+The code should contain a prompt requesting a folder with files
+
+The code should contain a prompt requesting a location to save the renamed files
+
+The code should contain a prompt to request for a new file name
+
+The code should contain a prompt to request for a starting number at the end of the input file name
+
+The code should parse and rename every file in the original folder
+
+
+
+My Second Prompt:
+
+The code requires an interface with input fields for :
+
+The code should contain a input field box requesting a folder with files
+
+The code should contain a input field box requesting a location to save the renamed files
+
+The code should contain a input field box to request for a new file name
+
+The code should contain a input field box to request for a starting number at the end of the input file name
+
+The code should contain a progress bar for a status update, and provide a completed message if:
+A. The files completed successfully.
+B. The was an error with the process.
+
+rewrite the previous code to include these new parameters
+
+
+My Third Prompt:
+
+This completed project works as expected:
+
+The code executes as expected.
+
+The interface is rudimentary yet functional.
+
+The code is now required to run as a clickable executable file.
+Provide the information needed to create an executable file.
+
+
+My Fourth Prompt:
+
+Provide step by step detail on how to compile the app in a windows environment
